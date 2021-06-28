@@ -4,6 +4,7 @@ I am kuldeep singh. I have more than 8 years of experience in consulting, design
 
 - 💬 Ask me about: `Azure` `Azure Data Engineering` `Azure DevOps`
 - 📫 How to reach me: in.singhkuldeep@gmail.com
+- @kuldeepsingh-k
 
 <!--
 **kuldeepsingh-k/kuldeepsingh-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
