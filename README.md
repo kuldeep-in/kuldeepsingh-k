@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am kuldeep singh. I have more than 8 years of experience in consulting, designing, developing and delivering enterprise solutions. I am Microsoft certified Azure Solution Architect, DevOps Engineer, Data Engineer and Azure Developer. I have a bachelor of engineering in Information Technology degree from University of Pune. 
+
+- 💬 Ask me about: `Azure` `Azure Data Engineering` `Azure DevOps`
+- 📫 How to reach me: in.singhkuldeep@gmail.com
+
 <!--
 **kuldeepsingh-k/kuldeepsingh-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
